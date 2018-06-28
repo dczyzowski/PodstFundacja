@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.cocoapods.podst_fundacja.MainActivity">
+    <item
+        android:id="@+id/about_us"
+        android:orderInCategory="100"
+        android:title="@string/about_us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/donation"
+        android:orderInCategory="101"
+        android:title="@string/donation"
+        />
+
+    <item
+        android:id="@+id/proteges"
+        android:orderInCategory="101"
+        android:title="@string/proteges"
+        />
+
+    <item
+        android:id="@+id/support"
+        android:orderInCategory="101"
+        android:title="@string/support"
+        />
+</menu>

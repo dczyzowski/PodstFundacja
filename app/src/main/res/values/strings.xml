@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Podst-Fundacja</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="info_text">Ludzie, którzy są uczuleni na koty, nie są uczuleni na ich sierść, tylko na kocią ślinę lub drobinki naskórka osadzające się na ich sierści.</string>
+    <string name="do_you_know">Czy wiesz, że:</string>
+    <string name="background_text">tło</string>
+    <string name="logo_text">Mamy serce do zwierząt!</string>
+    <string name="thanks_text">Dzięki reklamom nasi podopieczni mają co jeść.</string>
+    <string name="connection_ok">Kliknij i wyświetl reklamę. Wszystkie środki prekazujemy na pomoc podopiecznym</string>
+    <string name="no_connection">Brak połączenia z internetem. Sprawdź swoje połączenie i naciśnij przycisk</string>
+    <string name="about_us">O nas</string>
+    <string name="donation">Dotacje</string>
+    <string name="proteges">Podopieczni</string>
+    <string name="support">Wspieramy</string>
+    <string name="loading_ad">Trwa ładowanie reklamy...</string>
+</resources>
